@@ -8,12 +8,11 @@ This was my first day of building something using my basic knowledge of HTML and
 - **Progress:** Successfully created the first page and pushed it to GitHub.
 - **Goal:** I am learning and will try my best to do more tomorrow.
 
-- 
-Day 2
+## Day 2
 
-Today was about understanding the structure of web pages more deeply instead of rushing through multiple concepts. I focused mainly on practicing HTML tags and improving page layout understanding.
+Today was about intentionally learning the core structure of web pages instead of rushing through multiple concepts.
 
-Concepts Used: Semantic HTML tags like <h1>, <p>, and <div>, image positioning, width, margin, and basic layout structuring.
-Progress: Practiced creating a clean webpage structure, improved element positioning, and gained better understanding of how content is arranged on a webpage.
-Learning: Learned that web development is not just about making pages look good, but also about understanding how elements behave and fit together properly.
-Goal: Continue improving HTML fundamentals and start exploring more CSS styling techniques tomorrow.
+- **Concepts Used:** Semantic HTML tags like `<h1>`, `<p>`, and `<div>`, image positioning, width, margin, and basic layout structuring.
+- **Progress:** Practiced building a clean webpage structure and improved understanding of how elements are positioned within a layout.
+- **Learning:** Learned how HTML elements behave inside the document flow and how proper structuring makes webpages more organized and readable.
+- **Goal:** Continue strengthening HTML fundamentals and start exploring more CSS styling techniques tomorrow.
