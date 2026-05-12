@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>learning_hub</title>
+    
+</head>
+    
+<body>
+    <h1>Hi welcome to our website!!
+    </h1>
+    <p>This website will help you to learn python form scrach to advance.</p>
+    <p>don't feel stuck in real things let's practice!!</p>
+    <h3>These are some channels from where you can learn the basics of python and practice so may question to help you built the real things.</h3>
+    <p>name of some websites for better learning :</p>
+    <ol>
+        <div>1. <a href="https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course?gad_source=1&gad_campaignid=22796777913&gbraid=0AAAAAqQsM_2NI107-6PWX2HbnOtf6LVpF&gclid=CjwKCAjwn4vQBhBsEiwAq3hhN0shEk04icsD_ur1thTKIC5pY73jOL-ibkteFI3k47xxgMvBDYP7vxoCYTgQAvD_BwE">Code With Harry</a></div>
+        <div>2. <a href="http://apnacollege.in/notes">Apna College</a></div>
+        <div>3. <a href=">https://www.geeksforgeeks.org/python/python-programming-language-tutorial">GreekForGreeks</a>
+        </div>
+        <img src="htmlday2_image.png" alt="learning going on" style = "float: right; margin-right: 50px; width: 250px;">
+    </ol>
+        <h2>
+            Here are some of my learning I am sharing to help you all understand better.
+        </h2>
+        <table border = "2">
+        <tr>
+            <th>Website name</th>
+            <th>Category</th>
+            <th>Status</th>    
+        </tr>
+        <tr>
+            <td>code with harry</td>
+            <td>full stack web dev</td>
+            <td>learning</td>
 
+        </tr>
+        <tr>
+            <td>apna college</td>
+            <td>c++ learning </td>
+            <td>done</td>
+        </tr>
+        </table>
+        
+       
+        
+</body>
+</html>
