@@ -7,6 +7,8 @@ This was my first day of building something using my basic knowledge of HTML and
 - **Concepts Used:** HTML Tags, CSS for colors, width, height, and structuring.
 - **Progress:** Successfully created the first page and pushed it to GitHub.
 - **Goal:** I am learning and will try my best to do more tomorrow.
+
+- 
 Day 2
 
 Today was about understanding the structure of web pages more deeply instead of rushing through multiple concepts. I focused mainly on practicing HTML tags and improving page layout understanding.
